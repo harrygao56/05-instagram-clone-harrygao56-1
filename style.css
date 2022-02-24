@@ -40,6 +40,7 @@ body {
     text-align: center;
     border: 1px solid #dbdbdb;
     border-radius: 4px;
+    position: relative;
     left: 43%;
     width: 200px;
     height: 12px;
