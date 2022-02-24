@@ -1,12 +1,13 @@
 #logoPic {
     height: 30px;
     width: 30px;
+    margin-right: 10px;
 }
 
 #cursiveLogo {
     height: 30px;
     padding-left: 15px;
-    border: 0px 0px 0px 2px;
+    border: 0px 0px 0px 1px;
     border-color: transparent transparent transparent black;
     border-style: solid;
     margin-left: 10px;
