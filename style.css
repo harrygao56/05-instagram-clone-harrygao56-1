@@ -6,24 +6,24 @@ body {
     position: fixed;
     width: 100%;
     padding-top: 12px;
-    padding-bottom: 12px;
+    padding-bottom: 16px;
     border-bottom: 1px solid #24232319;
 }
 
 #logoPic {
-    height: 30px;
-    width: 30px;
+    height: 25px;
+    width: 25px;
     margin-right: 10px;
     float: left;
     position: relative;
     top: 2px;
-    padding-left: 20px;
+    padding-left: 65px;
 }
 
 #cursiveLogo {
-    height: 30px;
+    height: 22px;
     padding-left: 15px;
-    padding-top: 4px;
+    padding-top: 3px;
     border-width: 0px 0px 0px .2px;
     border-color: transparent transparent transparent black;
     border-style: solid;
