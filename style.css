@@ -6,7 +6,7 @@
 #cursiveLogo {
     height: 30px;
     padding-left: 15px;
-    border-left: 10px;
+    border: 10px 0px 0px 0px;
     border-left-color: black;
     border-style: solid;
     margin-left: 10px;
