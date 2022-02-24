@@ -50,6 +50,7 @@ body {
     color: #8f8f8f;
     font-size: .9em;
     background-image: url("search.png");
+    background-size: 10px;
 }
 
 #searchbox:focus {
