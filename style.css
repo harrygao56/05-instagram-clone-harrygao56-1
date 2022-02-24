@@ -2,6 +2,8 @@
     position: fixed;
     width: 100%;
     border-bottom: 1px solid #24232319;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 #logoPic {
@@ -24,6 +26,10 @@
     float: left;
 }
 
+.headerbutton {
+    margin-left: 22;
+}
+
 #searchbox {
     margin-left: auto;
     margin-right: auto;
@@ -31,6 +37,9 @@
 
 .header-buttons {
     float: right;
+    padding-left: 24px;
+    position: fixed;
+    right: 
 }
 
 #discover-logo {
