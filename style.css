@@ -17,9 +17,10 @@
     border-color: transparent transparent transparent black;
     border-style: solid;
     margin-left: 10px;
+    float: left;
 }
 
-.searchbox {
+.search {
     float: left;
 }
 
