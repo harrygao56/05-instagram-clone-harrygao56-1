@@ -51,6 +51,7 @@ body {
     font-size: .9em;
     background-image: url("search.png");
     background-size: 10px;
+    background-repeat: no-repeat;
 }
 
 #searchbox:focus {
