@@ -1,6 +1,7 @@
 .header {
     position: fixed;
     width: 100%;
+    padding: 14px 2px 14px 2px;
     border-bottom: 1px solid #24232319;
 }
 
