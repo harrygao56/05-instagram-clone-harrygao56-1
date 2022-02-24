@@ -23,13 +23,12 @@
 }
 
 #searchbox {
-    float: left;
     margin-left: auto;
     margin-right: auto;
 }
 
 .header-buttons {
-    float: left;
+    float: right;
 }
 
 #discover-logo {
