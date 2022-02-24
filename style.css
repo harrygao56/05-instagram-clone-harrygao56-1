@@ -22,6 +22,10 @@
     float: left;
 }
 
+.header-buttons {
+    float: left;
+}
+
 #discover-logo {
     height: 30px;
     width: 30px;
