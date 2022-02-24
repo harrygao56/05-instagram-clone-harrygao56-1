@@ -6,7 +6,9 @@
 #cursiveLogo {
     height: 30px;
     padding-left: 15px;
-    border-color: black transparent transparent transparent;
+    border-left: 2px;
+    border-left-color: black;
+    margin-left: 10px;
 }
 
 #discover-logo {
