@@ -324,7 +324,10 @@ body {
     color:#8f8f8f;
 }
 
-.follow-pic {
+.follow {
     margin: auto;
+}
+
+.follow-pic {
     height: 30px;
 }
