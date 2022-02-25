@@ -99,6 +99,7 @@ body {
     display: flex;
     flex-direction: column;
     margin-top: 20px;
+    border-radius: 3px;
 }
 
 #post-1 {
