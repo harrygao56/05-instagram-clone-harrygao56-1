@@ -366,6 +366,7 @@ body {
     color: black;
 }
 
+/*
 @media (min-width: 1029px) {
     #column-2 {
         visibility: visible;
@@ -377,3 +378,4 @@ body {
         visibility: hidden;
     }
 }
+*/
