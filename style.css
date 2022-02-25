@@ -295,6 +295,7 @@ body {
 
 .pic-x {
     display: flex;
+    justify-content: space-between;
 }
 
 .suggest-pic {
@@ -308,7 +309,7 @@ body {
 .x {
     height: 10px;
     margin-top: 20px;
-    margin-left: 17%;
+    margin-right: 5%;
 }
 
 .suggest-name {
