@@ -15,7 +15,7 @@ body {
     width: 100%;
     padding-top: 12px;
     padding-bottom: 16px;
-    border-bottom: 2px solid #24232319;
+    border-bottom: 1.5px solid #24232319;
 }
 
 #logo {
@@ -95,7 +95,7 @@ body {
     background-color: white;
     width: 58%;
     margin-left: 6%;
-    border: 2px solid #24232319;
+    border: 1px solid #24232319;
     display: flex;
     flex-direction: column;
     margin-top: 20px;
@@ -107,7 +107,7 @@ body {
 }
 
 .post-header {
-    border-bottom: 2px solid #24232319;
+    border-bottom: .5px solid #24232319;
     display: flex;
     align-items: center;
 }
