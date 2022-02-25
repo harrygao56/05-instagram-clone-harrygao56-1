@@ -92,10 +92,12 @@ body {
     width: 27px;
 }
 
+#column-1 {
+    width: 58%;
+}
+
 .post {
     background-color: white;
-    width: 58%;
-    margin-left: 6%;
     border: 1px solid #24232319;
     display: flex;
     flex-direction: column;
@@ -351,4 +353,8 @@ body {
 
 #arlene {
     margin-left: 5%;
+}
+
+@media {
+
 }
