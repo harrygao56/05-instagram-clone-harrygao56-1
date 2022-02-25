@@ -120,6 +120,7 @@ body {
 
 .profile-pic {
     height: 37px;
+    border-radius: 50%;
 }
 
 .username {
