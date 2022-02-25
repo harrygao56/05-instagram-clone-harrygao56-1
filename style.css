@@ -310,7 +310,9 @@ body {
     margin: auto;
     margin-top: 0px;
     margin-bottom: 0px;
-    font-weight: 550;
+    height: 60px;
+    font-size: .95em;
+    font-weight: 580;
 }
 
 .suggest-meta {
