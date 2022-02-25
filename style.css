@@ -34,7 +34,7 @@ body {
 }
 
 .headerbutton {
-    margin-left: 25px;
+    margin-left: 27px;
 }
 
 #searchbox {
@@ -64,7 +64,7 @@ body {
 .header-buttons {
     float: right;
     padding-left: 24px;
-    margin-right: 115px;
+    margin-right: 120px;
 }
 
 #discover-logo {
@@ -78,6 +78,6 @@ body {
 }
 
 #profile-logo {
-    height: 30px;
-    width: 30px;
+    height: 27px;
+    width: 27px;
 }
