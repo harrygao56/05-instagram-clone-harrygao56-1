@@ -1,7 +1,3 @@
-html {
-    height: 100%
-}
-
 body {
     margin: 0px;
     /* font from instagram website*/
@@ -95,9 +91,12 @@ body {
 .post {
     width: 60%;
     margin-left: 6%;
-
     border-style: solid;
     border-color: black;
+}
+
+#post-1 {
+    margin-top: 100px;
 }
 
 .profile-pic {
