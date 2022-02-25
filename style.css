@@ -9,6 +9,7 @@ body {
 .header {
     position: fixed;
     display: flex;
+    justify-content: space-between;
     width: 100%;
     padding-top: 12px;
     padding-bottom: 16px;
