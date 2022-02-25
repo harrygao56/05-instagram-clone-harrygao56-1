@@ -97,7 +97,7 @@ body {
 }
 
 #column-1 {
-    width: 60%;
+    width: 70%;
 }
 
 .post {
@@ -362,7 +362,8 @@ body {
 }
 
 #column-2 {
-    width: 40%;
+    width: 30%;
+    color: black;
 }
 
 @media (min-width: 1029px) {
