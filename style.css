@@ -211,6 +211,9 @@ body {
 }
 
 .dots {
-    width: 30px;
     margin-right: 15px;
+}
+
+.dots-img {
+    width: 30px;
 }
