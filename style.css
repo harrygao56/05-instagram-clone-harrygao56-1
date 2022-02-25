@@ -108,7 +108,7 @@ body {
 }
 
 #post-2 {
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
 .post-header {
@@ -248,7 +248,7 @@ body {
     width: 58%;
     margin-left: 6%;
     border: 1px solid #24232319;
-    margin-top: 20px;
+    margin-top: 50px;
     border-radius: 3px;
     background-color: white;
 }
@@ -256,5 +256,15 @@ body {
 .row-1 {
     display: flex;
     justify-content: space-between;
+    margin-top: 25px;
 }
 
+.suggest-caption {
+    margin-right: 3%;
+    color:#acacac;
+}
+
+.see-all {
+    margin-left: 3%;
+    text-decoration: none;
+}
