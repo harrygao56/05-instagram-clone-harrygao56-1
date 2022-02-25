@@ -82,3 +82,12 @@ body {
     height: 27px;
     width: 27px;
 }
+
+.post-header {
+    width: 60%;
+}
+
+.profile-pic {
+    height: 27px;
+    margin: 10 0 10 20;
+}
