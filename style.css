@@ -198,10 +198,9 @@ body {
 
 .footer-line {
     margin-top: 15px;
-    height: 1px;
-    width: 80%;
+    width: 95%;
     border-style: solid;
-    color: rgb(121, 121, 121);
+    color: rgb(240, 240, 240);
 }
 
 .comment-edit {
