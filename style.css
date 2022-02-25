@@ -299,7 +299,7 @@ body {
 }
 
 .suggest-pic-link {
-    margin-left: 38%;
+    margin-left: 36%;
 }
 
 .suggest-pic {
@@ -335,6 +335,7 @@ body {
 
 .follow {
     margin: auto;
+    margin-top: 33px;
 }
 
 .follow-pic {
