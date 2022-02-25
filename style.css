@@ -15,7 +15,7 @@ body {
     width: 100%;
     padding-top: 12px;
     padding-bottom: 16px;
-    border-bottom: 1px solid #24232319;
+    border-bottom: 2px solid #24232319;
 }
 
 #logo {
@@ -95,14 +95,14 @@ body {
     background-color: white;
     width: 58%;
     margin-left: 6%;
-    border-style: solid;
-    border-color: black;
+    border: 2px solid #24232319;
     display: flex;
     flex-direction: column;
+    margin-top: 20px;
 }
 
 #post-1 {
-    margin-top: 100px;
+    margin-top: 80px;
 }
 
 .post-header {
@@ -120,7 +120,7 @@ body {
 }
 
 .username {
-    margin-left: 3%;
+    margin-left: 1.5%;
     text-decoration: none;
     color: black;
     font-weight: 650;
