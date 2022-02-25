@@ -362,7 +362,7 @@ body {
 }
 
 #column-2 {
-    width: 30vw;
+    width: 35vw;
     height: 100%;
     background-color: black;
 }
@@ -370,11 +370,13 @@ body {
 @media (min-width: 1029px) {
     #column-2 {
         visibility: visible;
+        width: 35vw;
     }
 }
 
 @media (max-width: 1029px) {
     #column-2 {
         visibility: hidden;
+        width: 0px;
     }
 }
