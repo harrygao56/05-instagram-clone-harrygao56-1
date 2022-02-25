@@ -137,6 +137,10 @@ body {
     flex-direction: column;
 }
 
-.post-buttonr {
+.post-button {
     display: flex;
+}
+
+.post-button-icon {
+    height: 20px;
 }
