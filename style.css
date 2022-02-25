@@ -93,10 +93,11 @@ body {
 
 .post {
     background-color: white;
-    width: 60%;
+    width: 58%;
     margin-left: 6%;
     border-style: solid;
     border-color: black;
+    display: flex;
 }
 
 #post-1 {
@@ -105,5 +106,9 @@ body {
 
 .profile-pic {
     height: 40px;
-    margin: 10 0 10 20;
+    margin: 10 10 10 10;
+}
+
+.username {
+    margin-left: 10%;
 }
