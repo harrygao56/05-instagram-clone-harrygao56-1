@@ -310,19 +310,19 @@ body {
     margin: auto;
     margin-top: 0px;
     margin-bottom: 0px;
-    font-size: 1.1em;
     font-weight: 550;
 }
 
 .suggest-meta {
     margin: auto;
+    margin-top: 3px;
     margin-bottom: 0px;
-    font-size: .9em;
+    font-size: .8em;
     font-weight:550;
     color:#8f8f8f;
 }
 
 .follow-pic {
-    margin-top: 30px;
+    margin: 30px auto auto auto;
     height: 30px;
 }
