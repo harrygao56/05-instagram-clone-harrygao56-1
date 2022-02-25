@@ -141,6 +141,8 @@ body {
 .post-buttons {
     display: flex;
     justify-content: space-between;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 .post-button-icon {
@@ -148,9 +150,17 @@ body {
 }
 
 .like-button {
-    margin: 10px 0px 10px 15px;
+    margin-left: 15px;
 }
 
-.like-button {
-    margin: 10px 0px 10px 15px;
+.comment-button {
+    margin-left: 30px;
+}
+
+.share-button {
+    margin-left: 30px;
+}
+
+.save-button {
+    margin-right: 15px;
 }
