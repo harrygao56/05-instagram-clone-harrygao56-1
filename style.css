@@ -191,5 +191,6 @@ body {
 .time {
     margin-left: 15px;
     margin-top: 3px;
-    font-weight: 300;
+    font-size: .8em;
+    color: rgb(105, 105, 105);
 }
