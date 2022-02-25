@@ -107,10 +107,12 @@ body {
 
 .post-header {
     display: flex;
+    align-items: center;
 }
 
 .profile-pic-link {
     margin: 10px 0px 10px 16px;
+    height: 37px;
 }
 
 .profile-pic {
