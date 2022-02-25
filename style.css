@@ -120,5 +120,8 @@ body {
 }
 
 .username {
-    margin-left: 10%;
+    margin-left: 3%;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
 }
