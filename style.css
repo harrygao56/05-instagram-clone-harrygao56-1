@@ -256,15 +256,20 @@ body {
 .row-1 {
     display: flex;
     justify-content: space-between;
-    margin-top: 25px;
+    margin-top: 20px;
+    align-items: center;
 }
 
 .suggest-caption {
-    margin-right: 3%;
+    margin-left: 3%;
     color:#acacac;
+    font-size: .9em;
+    font-weight: 450;
 }
 
 .see-all {
-    margin-left: 3%;
+    margin-right: 3%;
     text-decoration: none;
+    font-size: .8em;
+    font-weight: 500;
 }
