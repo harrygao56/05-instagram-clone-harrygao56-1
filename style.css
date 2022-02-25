@@ -261,15 +261,16 @@ body {
 }
 
 .suggest-caption {
-    margin-left: 3%;
-    color:#acacac;
+    margin-left: 4%;
+    color:#919191;
     font-size: .9em;
-    font-weight: 450;
+    font-weight: 500;
 }
 
 .see-all {
-    margin-right: 3%;
+    margin-right: 4%;
     text-decoration: none;
     font-size: .8em;
     font-weight: 500;
+    color: rgb(61, 115, 214);
 }
