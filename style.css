@@ -133,14 +133,24 @@ body {
 }
 
 .post-footer{
+    border-top: .5px solid #24232319;
     display: flex;
     flex-direction: column;
 }
 
-.post-button {
+.post-buttons {
     display: flex;
+    justify-content: space-between;
 }
 
 .post-button-icon {
-    height: 20px;
+    height: 30px;
+}
+
+.like-button {
+    margin: 10px 0px 10px 15px;
+}
+
+.like-button {
+    margin: 10px 0px 10px 15px;
 }
