@@ -94,6 +94,7 @@ body {
 
 .content-area {
     display: flex;
+    width: auto;
 }
 
 #column-1 {
