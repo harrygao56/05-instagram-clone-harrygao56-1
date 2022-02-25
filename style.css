@@ -211,8 +211,9 @@ body {
 }
 
 .comment {
+    padding-left: 20px;
     height: 45px;
-    width: 450px;
+    width: 90%;
 }
 
 .dots {
