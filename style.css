@@ -15,7 +15,7 @@ body {
     width: 100%;
     padding-top: 12px;
     padding-bottom: 16px;
-    border-bottom: 1.5px solid #24232319;
+    border-bottom: 1px solid #24232319;
 }
 
 #logo {
@@ -130,4 +130,13 @@ body {
 
 .post-pic {
     width: auto;
+}
+
+.post-footer{
+    display: flex;
+    flex-direction: column;
+}
+
+.post-buttonr {
+    display: flex;
 }
