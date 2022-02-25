@@ -363,11 +363,12 @@ body {
 
 #column-2 {
     width: 30vw;
+    height: 100vw;
     color: black;
 }
 
 /*
-@media (min-width: 1029px) {
+@media (min-width: 1029px) s{
     #column-2 {
         visibility: visible;
     }
