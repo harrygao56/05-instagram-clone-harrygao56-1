@@ -241,7 +241,7 @@ body {
     width: 20px;
 }
 
-.suggestion {
+.suggestions {
     display: flex;
     flex-direction: column;
     height: 400px;
