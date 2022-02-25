@@ -327,10 +327,9 @@ body {
 
 .follow {
     margin: auto;
-    display: flex;
 }
 
 .follow-pic {
     height: 30px;
-    flex-shrink: 3;
+    width: 100px;
 }
