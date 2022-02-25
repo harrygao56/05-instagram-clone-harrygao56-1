@@ -280,7 +280,7 @@ body {
     display: flex;
     margin-left: 4%;
     margin-top: 8px;
-    height: 250px;
+    height: 245px;
     width: 93%;
 }
 
@@ -296,11 +296,13 @@ body {
     height: 50px;
     border-radius: 50%;
     border: 1px solid rgb(235, 235, 235);
-    margin-top: 
+    margin-top: 15px;
+    margin-left: 35%;
 }
 
 .x {
     height: 10px;
+    margin-top: 15px;
 }
 
 .follow-pic {
