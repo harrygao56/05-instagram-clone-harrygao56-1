@@ -13,11 +13,14 @@ body {
     border-bottom: 1px solid #24232319;
 }
 
+#logo {
+    display: flex;
+}
+
 #logoPic {
     height: 27px;
     width: 27px;
     margin-right: 10px;
-    float: left;
     position: relative;
     top: 2px;
     margin-left: 6%;
@@ -31,7 +34,6 @@ body {
     border-color: transparent transparent transparent black;
     border-style: solid;
     margin-left: 10px;
-    float: left;
 }
 
 .headerbutton {
@@ -63,10 +65,10 @@ body {
 }
 
 .header-buttons {
-    float: right;
     padding-left: 24px;
     margin-right: 12%;
     margin-top: 5px;
+    display: flex;
 }
 
 #discover-logo {
