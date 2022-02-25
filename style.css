@@ -92,6 +92,10 @@ body {
     width: 27px;
 }
 
+.content-area {
+    display: flex;
+}
+
 #column-1 {
     width: auto;
 }
