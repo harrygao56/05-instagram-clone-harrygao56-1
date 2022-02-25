@@ -10,6 +10,7 @@ body {
 .header {
     position: fixed;
     display: flex;
+    background-color: white;
     justify-content: space-between;
     width: 100%;
     padding-top: 12px;
@@ -91,6 +92,7 @@ body {
 }
 
 .post {
+    background-color: white;
     width: 60%;
     margin-left: 6%;
     border-style: solid;
