@@ -280,6 +280,7 @@ body {
     height: 500px;
     width: 30%;
     margin-left: 3%;
+    margin-top: 8px;
     border: 1px solid #24232319;
     border-radius: 3px;;
 }
@@ -288,12 +289,13 @@ body {
     height: 50px;
     border-radius: 50%;
     border: 1px solid rgb(235, 235, 235);
+    margin-top: 
 }
 
 .x {
-    height: 5px;
+    height: 10px;
 }
 
 .follow-pic {
-    height: 15px;
+    height: 30px;
 }
