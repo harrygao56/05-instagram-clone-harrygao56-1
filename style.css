@@ -331,4 +331,5 @@ body {
 
 .follow-pic {
     height: 30px;
+    flex-shrink: 3;
 }
