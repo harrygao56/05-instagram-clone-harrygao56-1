@@ -97,7 +97,7 @@ body {
 }
 
 .post {
-    width: 58%
+    width: 58%;
     background-color: white;
     border: 1px solid #24232319;
     display: flex;
