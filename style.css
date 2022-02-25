@@ -357,6 +357,18 @@ body {
     margin-left: 5%;
 }
 
-@media {
+#column-2 {
+    width: 40%;
+}
 
+@media (min-width: 1029px) {
+    #column-2 {
+        visibility: visible;
+    }
+}
+
+@media (max-width: 1029px) {
+    #column-2 {
+        visibility: hidden;
+    }
 }
