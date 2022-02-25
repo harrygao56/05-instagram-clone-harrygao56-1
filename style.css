@@ -98,10 +98,15 @@ body {
     border-style: solid;
     border-color: black;
     display: flex;
+    flex-direction: column;
 }
 
 #post-1 {
     margin-top: 100px;
+}
+
+.post-header {
+    display: flex;
 }
 
 .profile-pic {
