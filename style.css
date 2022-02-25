@@ -246,6 +246,11 @@ body {
     flex-direction: column;
     height: 100px;
     width: 58%;
+    margin-left: 6%;
+    border: 1px solid #24232319;
+    margin-top: 20px;
+    border-radius: 3px;
+    background-color: white;
 }
 
 .row-1 {
