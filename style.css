@@ -205,12 +205,12 @@ body {
 
 .comment-edit {
     display: flex;
+    align-items: center;
     justify-content: space-between;
-    margin-top: 20px;
 }
 
 .comment {
-    padding: 15px 12px 15px 36px;
+    padding: 30px 12px 15px 80px;
 }
 
 .dots {
@@ -218,5 +218,5 @@ body {
 }
 
 .dots-img {
-    width: 25px;
+    width: 20px;
 }
