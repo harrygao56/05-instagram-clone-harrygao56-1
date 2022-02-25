@@ -250,7 +250,7 @@ body {
     flex-direction: column;
     height: 310px;
     width: 58%;
-    margin-left: 6%;
+    margin: auto;
     border: 1px solid #24232319;
     margin-top: 50px;
     margin-bottom: 100px;
