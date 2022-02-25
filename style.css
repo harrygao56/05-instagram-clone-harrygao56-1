@@ -83,10 +83,10 @@ body {
     width: 27px;
 }
 
-.post-header {
+.post {
     width: 60%;
     float: left;
-    clear: left;
+    clear: left right;
 }
 
 .profile-pic {
