@@ -149,7 +149,7 @@ body {
 }
 
 .like-button {
-    margin-left: 15px;
+    margin-left: 20px;
 }
 
 .comment-button {
@@ -166,14 +166,14 @@ body {
 
 .like-count {
     margin-top: 10px;
-    margin-left: 15px;
+    margin-left: 20px;
     text-decoration: none;
     color: black;
     font-weight: 650;
 }
 
 #username-1 {
-    margin-left: 15px;
+    margin-left: 20px;
 }
 
 .captions-stuff {
@@ -189,8 +189,9 @@ body {
 }
 
 .time {
-    margin-left: 15px;
+    margin-left: 20px;
     margin-top: 3px;
     font-size: .8em;
-    color: rgb(105, 105, 105);
+    font-weight: 600;
+    color: rgb(134, 134, 134);
 }
