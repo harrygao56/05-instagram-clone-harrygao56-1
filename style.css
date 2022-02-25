@@ -310,7 +310,7 @@ body {
     margin: auto;
     margin-top: 0px;
     margin-bottom: 0px;
-    height: 60px;
+    height: 25px;
     font-size: .95em;
     font-weight: 580;
 }
@@ -325,6 +325,6 @@ body {
 }
 
 .follow-pic {
-    margin: 30px auto auto auto;
+    margin: auto;
     height: 30px;
 }
