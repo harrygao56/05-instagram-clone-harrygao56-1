@@ -317,7 +317,7 @@ body {
 
 .suggest-name {
     margin: auto;
-    margin-top: 0px;
+    margin-top: 15px;
     margin-bottom: 0px;
     height: 25px;
     font-size: .95em;
@@ -326,9 +326,9 @@ body {
 
 .suggest-meta {
     margin: auto;
-    margin-top: 3px;
+    margin-top: 0px;
     margin-bottom: 0px;
-    font-size: .8em;
+    font-size: .75em;
     font-weight:550;
     color:#8f8f8f;
 }
