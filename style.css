@@ -214,6 +214,7 @@ body {
     padding-left: 20px;
     height: 45px;
     width: 90%;
+    border-color: transparent;
 }
 
 .dots {
