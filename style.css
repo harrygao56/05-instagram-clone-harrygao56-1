@@ -279,7 +279,7 @@ body {
 .suggestions {
     display: flex;
     margin-left: 4%;
-    margin-top: 8px;
+    margin-top: 12px;
     height: 245px;
     width: 93%;
 }
@@ -297,23 +297,32 @@ body {
     border-radius: 50%;
     border: 1px solid rgb(235, 235, 235);
     margin-top: 20px;
-    margin-left: 40%;
+    margin-left: 38%;
 }
 
 .x {
     height: 10px;
     margin-top: 20px;
+    margin-left: 15%;
 }
 
 .suggest-name {
     margin: auto;
-    margin-top: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: .8em;
+    font-weight: 550;
 }
 
 .suggest-meta {
     margin: auto;
+    margin-bottom: 0px;
+    font-size: .7em;
+    font-weight:550;
+    color:#8f8f8f;
 }
 
 .follow-pic {
+    margin-top: 30px;
     height: 30px;
 }
