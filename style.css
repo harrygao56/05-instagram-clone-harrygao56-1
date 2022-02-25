@@ -286,12 +286,15 @@ body {
 
 .suggestion {
     display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
+    flex-direction: column;
     gap: 0px;
     border: 1px solid #24232319;
     border-radius: 3px;
     width: 30%;
+}
+
+.pic-x {
+    display: flex;
 }
 
 .suggest-pic {
