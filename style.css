@@ -64,7 +64,8 @@ body {
 .header-buttons {
     float: right;
     padding-left: 24px;
-    margin-right: 120px;
+    margin-right: 123px;
+    margin-top: 5px;
 }
 
 #discover-logo {
