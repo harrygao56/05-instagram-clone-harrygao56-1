@@ -161,7 +161,7 @@ body {
 }
 
 .save-button {
-    margin-right: 15px;
+    margin-right: 20px;
 }
 
 .like-count {
@@ -194,4 +194,22 @@ body {
     font-size: .8em;
     font-weight: 500;
     color: rgb(134, 134, 134);
+}
+
+.footer-line {
+    margin-top: 15px;
+}
+
+.comment-edit {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.comment {
+    padding: 15px 12px 15px 36px;
+}
+
+.dots {
+    margin-right: 15px;
 }
