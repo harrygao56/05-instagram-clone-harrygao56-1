@@ -126,3 +126,7 @@ body {
     color: black;
     font-weight: 650;
 }
+
+.post-pic {
+    width: auto;
+}
