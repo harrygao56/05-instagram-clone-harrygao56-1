@@ -66,6 +66,7 @@ body {
 #searchbox:focus {
     background-color: #ffffff;
     background-position: -10%;
+    outline: none;
 }
 
 #header-buttons {
@@ -216,6 +217,10 @@ body {
     width: 90%;
     border-color: transparent;
     font-weight: 400;
+}
+
+.comment:focus {
+    outline: none;
 }
 
 .dots {
