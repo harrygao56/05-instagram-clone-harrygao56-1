@@ -108,7 +108,7 @@ body {
 }
 
 #post-2 {
-    margin-top: 80px;
+    margin-top: 40px;
 }
 
 .post-header {
@@ -240,3 +240,16 @@ body {
 .dots-img {
     width: 20px;
 }
+
+.suggested {
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    width: 58%;
+}
+
+.row-1 {
+    display: flex;
+    justify-content: space-between;
+}
+
