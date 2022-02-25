@@ -296,13 +296,13 @@ body {
     height: 50px;
     border-radius: 50%;
     border: 1px solid rgb(235, 235, 235);
-    margin-top: 15px;
+    margin-top: 20px;
     margin-left: 35%;
 }
 
 .x {
     height: 10px;
-    margin-top: 15px;
+    margin-top: 20px;
 }
 
 .suggest-name {
