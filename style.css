@@ -305,6 +305,10 @@ body {
     margin-top: 15px;
 }
 
+.suggest-name {
+    margin: auto;
+}
+
 .follow-pic {
     height: 30px;
 }
