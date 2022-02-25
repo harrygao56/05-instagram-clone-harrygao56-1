@@ -109,9 +109,12 @@ body {
     display: flex;
 }
 
+.profile-pic-link {
+    margin: 10px 0px 10px 16px;
+}
+
 .profile-pic {
     height: 37px;
-    margin: 10px 10px 10px 10px;
 }
 
 .username {
