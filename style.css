@@ -330,6 +330,7 @@ body {
 }
 
 .follow-pic {
+    margin: auto;
     height: 30px;
     width: 75%;
 }
