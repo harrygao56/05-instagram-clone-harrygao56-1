@@ -479,7 +479,8 @@ body {
 }
 
 .copyright {
-    padding-top: 15px;
+    position: relative;
+    top: 20px;
     font-size: .7em;
     font-weight: 450;
     color:#c7c7c7;
