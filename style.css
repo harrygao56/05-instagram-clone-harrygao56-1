@@ -375,6 +375,7 @@ body {
 .my-profile {
     margin-top: 80px;
     display: flex;
+    align-content: center;
 }
 
 .my-pic {
