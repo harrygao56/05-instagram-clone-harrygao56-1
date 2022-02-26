@@ -443,6 +443,18 @@ body {
 .story-info {
     display: flex;
     flex-direction: column;
+    
+}
+
+.story-user {
+    font-size: .95em;
+    font-weight: 550;
+}
+
+.story-time {
+    font-size: .95em;
+    font-weight: 450;
+    color:#8f8f8f;
 }
 
 @media (min-width: 800px) {
