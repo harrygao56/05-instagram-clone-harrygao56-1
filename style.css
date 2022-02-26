@@ -98,17 +98,17 @@ body {
 }
 
 #column-1 {
-    width: 70%;
+    width: 65%;
 }
 
 .post {
-    width: 92%;
+    width: 88%;
     background-color: white;
     border: 1px solid #24232319;
     display: flex;
     flex-direction: column;
     margin-left: 6vw;
-    margin-right: 2%;
+    margin-right: 6%;
     margin-top: 20px;
     border-radius: 3px;
 }
@@ -371,7 +371,7 @@ body {
 
 @media (min-width: 800px) {
     #column-1 {
-        width: 65%;
+        width: 68%;
     }
 
     #column-2 {
