@@ -411,6 +411,9 @@ body {
     width: 300px;
     flex-direction: column;
     overflow-y: auto;
+    border-style: solid;
+    border-color: transparent;
+    border-bottom-color:rgb(226, 226, 226);
 }
 
 .stories-header {
@@ -444,7 +447,7 @@ body {
     display: flex;
     flex-direction: column;
     margin-top: 10px;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .story-user {
