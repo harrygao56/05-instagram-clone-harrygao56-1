@@ -383,6 +383,7 @@ body {
 @media (max-width: 800px) {
     .post {
         width: 60%;
+        margin: auto;
     }
 
     #column-1 {
