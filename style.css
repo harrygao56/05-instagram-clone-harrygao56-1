@@ -465,6 +465,12 @@ body {
     color:#8f8f8f;
 }
 
+.footer-link {
+    font-size: .7em;
+    font-weight: 450;
+    color:#c7c7c7;
+}
+
 @media (min-width: 800px) {
     #column-1 {
         width: 64%;
