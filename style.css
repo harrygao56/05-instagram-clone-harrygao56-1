@@ -465,9 +465,14 @@ body {
     color:#8f8f8f;
 }
 
+.footer {
+    width: 300px;
+}
+
 .footer-link {
     font-size: .7em;
     font-weight: 450;
+    text-decoration: none;
     color:#c7c7c7;
 }
 
