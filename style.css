@@ -468,13 +468,20 @@ body {
 .footer {
     margin-top: 15px;
     width: 200px;
-    line-height: 10px;
+    line-height: 12px;
 }
 
 .footer-link {
     font-size: .7em;
     font-weight: 450;
     text-decoration: none;
+    color:#c7c7c7;
+}
+
+.copyright {
+    margin-top: 15px;
+    font-size: .7em;
+    font-weight: 450;
     color:#c7c7c7;
 }
 
