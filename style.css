@@ -409,6 +409,7 @@ body {
 .stories {
     display: flex;
     width: 300px;
+    height: 450px;
     flex-direction: column;
     overflow-y: auto;
     border-style: solid;
