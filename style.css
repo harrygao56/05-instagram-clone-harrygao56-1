@@ -411,7 +411,7 @@ body {
     width: 300px;
     height: 380px;
     flex-direction: column;
-    overflow-y: auto;
+    overflow: hidden;
     border-style: solid;
     border-color: transparent;
     border-bottom-color:rgb(226, 226, 226);
