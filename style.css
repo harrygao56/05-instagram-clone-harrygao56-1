@@ -406,6 +406,16 @@ body {
     color:#8f8f8f;
 }
 
+#nermal-suggest-pic {
+    position: relative;
+    left: 15px;
+}
+
+#arlene-suggest-pic {
+    position: relative;
+    left: 15px;
+}
+
 .stories {
     display: flex;
     width: 300px;
