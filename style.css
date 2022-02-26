@@ -390,6 +390,7 @@ body {
     .suggested {
         width: 65%;
         margin: auto;
+        margin-top: 50px;
     }
 
     #column-1 {
