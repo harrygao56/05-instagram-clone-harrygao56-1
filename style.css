@@ -255,11 +255,12 @@ body {
     display: flex;
     flex-direction: column;
     height: 310px;
-    width: 58%;
+    width: 88%;
     margin: auto;
     border: 1px solid #24232319;
     margin-top: 50px;
     margin-bottom: 100px;
+    margin-left: 6vw;
     border-radius: 3px;
     background-color: white;
 }
@@ -382,7 +383,12 @@ body {
 
 @media (max-width: 800px) {
     .post {
-        width: 63%;
+        width: 65%;
+        margin: auto;
+    }
+
+    .suggested {
+        width: 65%;
         margin: auto;
     }
 
