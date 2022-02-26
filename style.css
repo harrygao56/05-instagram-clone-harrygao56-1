@@ -426,8 +426,23 @@ body {
 }
 
 .watch-all {
-    font-size: .85em;
-    font-weight:550;
+    font-size: .8em;
+    font-weight: 550;
+}
+
+.story-post {  
+    display: flex;
+}
+
+.my-pic {
+    width: 60px;
+    border-radius: 50%;
+    border: 1px solid rgb(235, 235, 235);
+}
+
+.story-info {
+    display: flex;
+    flex-direction: column;
 }
 
 @media (min-width: 800px) {
