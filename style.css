@@ -102,7 +102,7 @@ body {
 }
 
 .post {
-    width: 85%;
+    width: 86%;
     background-color: white;
     border: 1px solid #24232319;
     display: flex;
@@ -255,7 +255,7 @@ body {
     display: flex;
     flex-direction: column;
     height: 310px;
-    width: 85%;
+    width: 86%;
     margin: auto;
     border: 1px solid #24232319;
     margin-top: 50px;
@@ -372,7 +372,7 @@ body {
 
 @media (min-width: 800px) {
     #column-1 {
-        width: 65%;
+        width: 64%;
     }
 
     #column-2 {
