@@ -486,7 +486,7 @@ body {
     color:#c7c7c7;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 1024px) {
     #column-1 {
         width: 64%;
     }
@@ -497,7 +497,7 @@ body {
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1024px) {
     .post {
         width: 65%;
         margin: auto;
