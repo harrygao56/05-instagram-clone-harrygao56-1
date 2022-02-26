@@ -411,10 +411,14 @@ body {
     width: 300px;
     height: 380px;
     flex-direction: column;
-    overflow: hidden;
+    overflow-y: auto;
     border-style: solid;
     border-color: transparent;
     border-bottom-color:rgb(226, 226, 226);
+}
+
+.stories::-webkit-scrollbar {
+    display: none;
 }
 
 .stories-header {
