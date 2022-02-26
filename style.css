@@ -102,7 +102,7 @@ body {
 }
 
 .post {
-    width: 58%;
+    width: 81%;
     background-color: white;
     border: 1px solid #24232319;
     display: flex;
@@ -380,6 +380,10 @@ body {
 }
 
 @media (max-width: 800px) {
+    .post {
+        width: 60%;
+    }
+
     #column-1 {
         width: 100%;
     }
