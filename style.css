@@ -436,6 +436,7 @@ body {
 
 .story-post {  
     display: flex;
+    margin-top: 15px;
 }
 
 .my-pic {
