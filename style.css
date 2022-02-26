@@ -378,9 +378,26 @@ body {
 }
 
 .my-pic {
-    width: 65px;
+    width: 60px;
     border-radius: 50%;
     border: 1px solid rgb(235, 235, 235);
+}
+
+.my-info {
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+
+.my-user {
+    font-size: .95em;
+    font-weight: 580;
+}
+
+.my-name {
+    font-size: .75em;
+    font-weight:550;
+    color:#8f8f8f;
 }
 
 @media (min-width: 800px) {
