@@ -499,12 +499,12 @@ body {
 
 @media (max-width: 1024px) {
     .post {
-        width: 65%;
+        width: 68%;
         margin: auto;
     }
 
     .suggested {
-        width: 65%;
+        width: 68%;
         margin: auto;
         margin-top: 50px;
     }
