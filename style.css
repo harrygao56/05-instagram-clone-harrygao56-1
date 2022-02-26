@@ -377,6 +377,7 @@ body {
     width: 260px;
     padding-bottom: 30px;
     border-style: solid;
+    border-color: transparent;
     border-bottom-color:rgb(202, 202, 202);
 }
 
