@@ -375,7 +375,6 @@ body {
 .my-profile {
     margin-top: 80px;
     display: flex;
-    align-content: center;
 }
 
 .my-pic {
@@ -388,6 +387,7 @@ body {
     display: flex;
     flex-direction: column;
     margin-left: 15px;
+    margin-top: 15px;
     height: 70%;
 }
 
