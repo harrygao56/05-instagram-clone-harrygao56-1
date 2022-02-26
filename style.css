@@ -388,6 +388,7 @@ body {
     display: flex;
     flex-direction: column;
     margin-left: 15px;
+    height: 70%;
 }
 
 .my-user {
