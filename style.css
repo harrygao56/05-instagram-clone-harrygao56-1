@@ -374,6 +374,10 @@ body {
 .my-profile {
     margin-top: 80px;
     display: flex;
+    width: 260px;
+    padding-bottom: 30px;
+    border-style: solid;
+    border-bottom-color:rgb(202, 202, 202);
 }
 
 .my-pic {
