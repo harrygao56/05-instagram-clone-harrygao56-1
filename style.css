@@ -406,6 +406,29 @@ body {
     color:#8f8f8f;
 }
 
+.stories {
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+.stories-header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+}
+
+.stories-title {
+    font-size: .95em;
+    font-weight: 550;
+    color:#8f8f8f;
+}
+
+.watch-all {
+    font-size: .85em;
+    font-weight:550;
+}
+
 @media (min-width: 800px) {
     #column-1 {
         width: 64%;
