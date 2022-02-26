@@ -432,6 +432,8 @@ body {
 .watch-all {
     font-size: .8em;
     font-weight: 550;
+    text-decoration: none;
+    color: black;
 }
 
 .story-post {  
